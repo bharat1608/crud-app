@@ -37,7 +37,7 @@ Ensure each commit has a clear and descriptive message. For example:
 - `Style application for responsive design`
 - `Add comments and documentation for all components`
 
-### Step 4: Push to GitHub
+### Step 3: Push to GitHub
 
 1. Initialize a Git repository if you haven’t already:
    ```bash
